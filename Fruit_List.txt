@@ -4,4 +4,6 @@ Apple
 Avocado
 Figs
 Grapes
+Pear
 Mango
+Orange
